@@ -57,4 +57,4 @@ The Modules will be implemented using the following methodologies:
 
 ```
 
-Projects created by Joshua and Ron for Creative CyberSolutions
+Projects created by Joshua Evans and Ron Sage for Creative CyberSolutions
